@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app fpr hack", "app fpr hack\app fpr hack.csproj", "{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Debug|ARM64.Build.0 = Debug|ARM64
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Release|ARM64.ActiveCfg = Release|ARM64
+		{93651C8B-1A7F-4C63-A12A-E27ED3AAB5DC}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AE62D7-E94E-4865-8D42-16F6D18ADC19}
+	EndGlobalSection
+EndGlobal
